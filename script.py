@@ -3,7 +3,7 @@ import os
 
 # Enter your Flickr API keys
 FLICKR_API_KEY = "FLICKR_API_KEY"
-FLICKR_USER_ID = "FLICKR_USER_ID@N07"
+FLICKR_USER_ID = "FLICKR_USER_ID"
 
 SAVE_DIRECTORY = "img"
 os.makedirs(SAVE_DIRECTORY, exist_ok=True)
